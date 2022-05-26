@@ -1,0 +1,12 @@
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\bin\Debug\Ikinci El Arac Satis Sistemi.exe.config
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\bin\Debug\Ikinci El Arac Satis Sistemi.exe
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\bin\Debug\Ikinci El Arac Satis Sistemi.pdb
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\obj\Debug\Ikinci El Arac Satis Sistemi.csproj.AssemblyReference.cache
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\obj\Debug\Ikinci El Arac Satis Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\obj\Debug\Ikinci_El_Arac_Satis_Sistemi.Properties.Resources.resources
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\obj\Debug\Ikinci El Arac Satis Sistemi.csproj.GenerateResource.cache
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\obj\Debug\Ikinci El Arac Satis Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\obj\Debug\Ikinci El Arac Satis Sistemi.exe
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\obj\Debug\Ikinci El Arac Satis Sistemi.pdb
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\obj\Debug\Ikinci_El_Arac_Satis_Sistemi.frmAracSahibiKayit.resources
+C:\Users\kazbu\source\repos\Ikinci El Arac Satis Sistemi\Ikinci El Arac Satis Sistemi\obj\Debug\Ikinci_El_Arac_Satis_Sistemi.frmSistem.resources
